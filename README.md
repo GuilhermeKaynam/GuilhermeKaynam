@@ -1,31 +1,35 @@
+# Guilherme Kaynam
 
+Desenvolvedor Full Stack com formação pelo bootcamp da **Generation Brasil**. Trabalho com **Java e Spring Boot** no back-end e **React com TypeScript** no front-end, construindo APIs REST autenticadas e interfaces que resolvem problemas concretos — de um blog com deploy em nuvem a uma calculadora de orçamentos feita para uma vidraçaria.
 
-### Olá! Eu sou o Guilherme Kaynam 👋🏽 
+Me interessa escrever código organizado em camadas, documentar o que entrego e cuidar da experiência de quem usa a aplicação.
 
-[![Linkendin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-kaynam-38149225b/)
-[![Blog](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/guikaynam/)
-[![Blog](https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white)](https://dev.to/envoy_/150-badges-for-github-pnk#social)
+📍 Poá, SP — Brasil · 🌐 [guilhermekaynam.vercel.app](https://guilhermekaynam.vercel.app/) · 💼 [LinkedIn](https://www.linkedin.com/in/guilherme-kaynam/) · ✉️ [guilhermekaynam2006@gmail.com](mailto:guilhermekaynam2006@gmail.com)
 
-![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=GuilhermeKaynam&show_icons=true&theme=dracula)
+---
 
-## Tecnologias que eu uso no meu dia
+### Stack
 
-<div style="sisplay: inline_block"><br/>
-    <img aling="center" alt="JAVA"src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white">
-</div>
-<div style="sisplay: inline_block"><br/>
-    <img aling="center" alt="JAVA"src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
-    <img aling="center" alt="JAVA"src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-    <img aling="center" alt="JAVA"src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-     <img aling="center" alt="JAVA"src="https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=Oracle&logoColor=white"/>
-     <img aling="center" alt="JAVA"src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
-     <img aling="center" alt="JAVA"src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-      <img aling="center" alt="JAVA"src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white"/>
-    <img aling="center" alt="JAVA"src="https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white"/>
-     <img aling="center" alt="JAVA"src="https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white"/>
-      
-</div><br/>
+| Área | Tecnologias |
+|---|---|
+| **Back-end** | Java 17 · Spring Boot · Spring Security + JWT · Spring Data JPA · Bean Validation · Swagger/OpenAPI |
+| **Front-end** | React · TypeScript · Vite · Tailwind CSS · React Router · Context API · Zustand · Axios |
+| **Banco de dados** | MySQL · PostgreSQL · H2 (testes) |
+| **Testes e ferramentas** | JUnit · Maven · Git · Docker · Vercel · Render |
 
-Apaixonado por tecnologia e inovação 🖥️👨🏾‍💻
+Explorando atualmente: Next.js, Supabase e automações com n8n.
 
-    
+---
+
+### Projetos em destaque
+
+| Projeto | O que é | Stack |
+|---|---|---|
+| [**Blog Pessoal — API**](https://github.com/GuilhermeKaynam/Blog-Pessoal) | API REST com autenticação JWT, documentação Swagger, testes de integração e deploy com Docker + PostgreSQL | Java · Spring Boot · Spring Security |
+| [**Blog Pessoal — Front-end**](https://github.com/GuilhermeKaynam/Blogpessoal-react) | Interface que consome a API acima: login, CRUD de temas e postagens, perfil | React · TypeScript · Tailwind |
+| [**Calculadora MDO**](https://github.com/GuilhermeKaynam/Calculadora-MDO) | Calculadora de orçamentos de vidros e boxes feita para a rotina de orçamentos de uma vidraçaria | React · TypeScript · Context API |
+| [**InovaMed**](https://github.com/GuilhermeKaynam/Inovamed-FrontEnd) | Protótipo de gestão para clínicas com áreas separadas para administrador e paciente | React · TypeScript · Tailwind |
+| [**FitPlanner — API**](https://github.com/GuilhermeKaynam/BackEnd-FitPlanner) | API de treinos com JWT, relacionamento usuário–treino–exercício e cálculo automático de IMC | Java · Spring Boot · MySQL |
+| [**Palette UI**](https://github.com/GuilhermeKaynam/palette-ui) | Gerador de paletas de cores com favoritos salvos no navegador e catálogo pesquisável | React · TypeScript · Tailwind |
+
+Os demais repositórios reúnem exercícios e projetos de estudo da formação (lógica em Java, SQL, Git e fundamentos de React).
