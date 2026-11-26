@@ -1,6 +1,6 @@
 # Guilherme Kaynam
 
-Desenvolvedor Full Stack com formação pelo bootcamp da **Generation Brasil**. Trabalho com **Java e Spring Boot** no back-end e **React com TypeScript** no front-end, construindo APIs REST autenticadas e interfaces que resolvem problemas concretos — de um blog com deploy em nuvem a uma calculadora de orçamentos feita para uma vidraçaria.
+Desenvolvedor Full Stack com formação pelo bootcamp da **Generation Brasil**. Trabalho com **Java e Spring Boot** no back-end e **React com TypeScript** no front-end, construindo APIs REST autenticadas e interfaces que resolvem problemas concretos de um blog com deploy em nuvem a uma calculadora de orçamentos feita para uma vidraçaria.
 
 Me interessa escrever código organizado em camadas, documentar o que entrego e cuidar da experiência de quem usa a aplicação.
 
